@@ -48,15 +48,18 @@ I am a passionate **Mobile Developer** dedicated to building innovative and user
 
 
 
+
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xatun8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xatun8&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xatun8&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xatun8&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xatun8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=xatun8&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 
